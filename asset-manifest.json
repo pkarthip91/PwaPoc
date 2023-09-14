@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/PwaPoc/static/css/main.fc300140.css",
+    "main.js": "/PwaPoc/static/js/main.24a586f4.js",
+    "static/js/787.04cacfaf.chunk.js": "/PwaPoc/static/js/787.04cacfaf.chunk.js",
+    "static/media/bg.jpg": "/PwaPoc/static/media/bg.1bd2e8e67354a8b48baf.jpg",
+    "static/media/maybank-logo.png": "/PwaPoc/static/media/maybank-logo.d080d1d7ec96a9160aa3.png",
+    "service-worker.js": "/PwaPoc/service-worker.js",
+    "index.html": "/PwaPoc/index.html",
+    "main.fc300140.css.map": "/PwaPoc/static/css/main.fc300140.css.map",
+    "main.24a586f4.js.map": "/PwaPoc/static/js/main.24a586f4.js.map",
+    "787.04cacfaf.chunk.js.map": "/PwaPoc/static/js/787.04cacfaf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc300140.css",
+    "static/js/main.24a586f4.js"
+  ]
+}
